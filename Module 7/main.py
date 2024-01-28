@@ -31,4 +31,4 @@ async def yes(ctx):
         while True:
             await ctx.send("@everyone Вы забили загрузить картинку ._.")
 
-bot.run("MTE1NDgwMDM4NTQ3NTc1NjEzNA.G7kgS1.PrQNFeivQD_2hysVS-q-3-1K3dteeObosaIvx8")
+bot.run()
